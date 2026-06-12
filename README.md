@@ -34,16 +34,13 @@ As a core contributor to the development team, I was responsible for several cri
 * **Database:** MySQL.
 * **Interaction:** AJAX for dynamic data handling.
 
-👥 Team Members
-Deema Alquwaei
+## 👥 Team Members
 
-Noora Aluqaili
-
-Jana Alothman
-
-Haya Alhajri
-
-Noura Altuwiam
+* **Deema Alquwaei**
+* **Noora Aluqaili**
+* **Jana Alothman**
+* **Haya Alhajri**
+* **Noura Altuwiam**
 
 
 
